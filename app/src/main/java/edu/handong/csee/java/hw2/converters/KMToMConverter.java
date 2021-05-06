@@ -24,3 +24,4 @@ public class KMToMConverter implements Convertible{
    public void convert(){
       value = value*1000;
    }
+}
